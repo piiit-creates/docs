@@ -4,9 +4,10 @@ tags:
 ---
 # Eine neue Page (Seite) in Wordpress bauen
 
-Am besten schaust du dir dieses Tutorial direkt in Wordpress an (dazu brauchst Du natürlich einen Zugang - solltest Du keinen haben kannst Du das Tutorial hier lesen)
+Am besten schaust du dir dieses Tutorial direkt im Wordpress Editor an (falls du keinen Account mit entsprechenden rechten hast, kannst du dir dort auch die veröffentlichte Seite anschauen oder das Tutorial hier lesen)
 
-[Direkt in Wordpress ansehen](https://nica.network/kurzanleitung){ .md-button }
+[In Wordpress ansehen](https://nica.network/kurzanleitung){ .md-button }
+[Im Wordpress Editor ansehen](https://nica.network/wp-admin/post.php?post=525&action=edit){ .md-button }
 
 ---
 
