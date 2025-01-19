@@ -12,7 +12,7 @@ Eine Seite besteht aus **einzelnen Blöcken**. Dies hier ist z.B. ein »Paragrap
 
 Neue Blöcke lassen sich über die »+« Button erstellen. Entweder der blaue oben links, oder wenn man mit der Maus zwischen zwei Blöcke fährt oder indem man »Enter« drückt und in der neuen Zeile »/« schreibt.
 
-## Überschrift 1
+# Überschrift 1
 
 ## Überschrift 2
 
